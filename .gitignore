@@ -1,0 +1,25 @@
+# Virtual Environment
+.venv/
+
+# Dataset
+Data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Zip files
+*.zip
+
+# VS Code
+.vscode/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# OS files
+Thumbs.db
+.DS_Store
