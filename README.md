@@ -61,6 +61,19 @@ Architecture:
 ![Prediction Result](images/about_model.png)
 
 
+## Performance Metrics
+
+| Metric              | Value            |
+| ------------------- | ---------------- |
+| Model               | EfficientNet     |
+| Validation Accuracy | **83.05%**       |
+| Number of Classes   | 6                |
+| Framework           | TensorFlow/Keras |
+| Frontend            | Streamlit        |
+
+
+---
+
 ## Technologies Used
 
 - Python
