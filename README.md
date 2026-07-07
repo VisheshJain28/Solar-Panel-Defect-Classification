@@ -1,3 +1,15 @@
+---
+title: Solar Panel Defect Classification
+emoji: ☀️
+colorFrom: yellow
+colorTo: blue
+sdk: streamlit
+sdk_version: "1.45.1"
+python_version: "3.11"
+app_file: app.py
+pinned: false
+---
+
 # ☀️ Solar Panel Defect Classification using EfficientNet
 
 An AI-powered deep learning application that automatically detects and classifies defects in solar panels from images.
