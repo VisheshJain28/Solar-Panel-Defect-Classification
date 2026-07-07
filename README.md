@@ -12,6 +12,8 @@ pinned: false
 
 # ☀️ Solar Panel Defect Classification using EfficientNet
 
+[![Live Demo](https://img.shields.io/badge/🤗%20HuggingFace-Live%20Demo-yellow?style=for-the-badge)](https://visheshjain28-solar-panel-defect-classification.hf.space)
+
 An AI-powered deep learning application that automatically detects and classifies defects in solar panels from images.
 
 The project uses **TensorFlow**, **EfficientNet**, and **Streamlit** to provide a simple web interface for real-time prediction.
